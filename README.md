@@ -11,7 +11,7 @@ En este proyecto se combinan el aprendizaje automático por computador para proc
 ## Autores
 
 - [Juan Felipe Moreno Ramos](https://github.com/Arownsis)
-- Luis Miguel Loaiza Zapata
+- [Luis Miguel Loaiza Zapata](https://github.com/Ph0n1x0)
 - [Estefanía Moreno Bermúdez](https://github.com/nadalimonada)
 
 Los estudiantes fueron asesorados por el profesor [Nicolás Guarín-Zapata](https://github.com/nicoguaro).
